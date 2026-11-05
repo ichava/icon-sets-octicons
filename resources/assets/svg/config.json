@@ -68,7 +68,9 @@
     "icon_prefix": "octicon",
     "defaults": {
       "class": "w-6 h-6",
-      "attributes": {}
+      "attributes": {
+        "fill": "currentColor"
+      }
     }
   },
   "upstream": {
