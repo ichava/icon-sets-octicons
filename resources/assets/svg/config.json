@@ -12,7 +12,7 @@
       "github"
     ],
     "version": "0.1.0",
-    "upstream_version": "19.33.0",
+    "upstream_version": "19.42.0",
     "type": "multi",
     "kind": "icon",
     "license": "MIT"
@@ -80,7 +80,7 @@
       "source_path": "build/svg",
       "_why_npm": "Primer publishes the built SVGs to npm on every release; the repository's icons/ needs a build."
     },
-    "current_version": "19.33.0",
+    "current_version": "19.42.0",
     "version_check_url": "https://registry.npmjs.org/@primer/octicons/latest",
     "license": "MIT",
     "cdn": {
