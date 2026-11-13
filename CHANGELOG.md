@@ -4,7 +4,7 @@ All notable changes to `ichava/icon-sets-octicons` follow [Keep a Changelog](htt
 
 ## [Unreleased]
 
-## [0.1.0] - TBD
+## [0.1.0] - 2026-11-13
 
 ### Changed
 
